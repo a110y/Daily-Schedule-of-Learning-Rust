@@ -3,3 +3,6 @@
 # DAY 01
 Qemu 模拟器安装时 ERROR: Cannot find Ninja 
 进行依赖库安装
+```
+  sudo apt install ninja-build
+```
